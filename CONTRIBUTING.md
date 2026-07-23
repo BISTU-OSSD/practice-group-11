@@ -23,3 +23,9 @@ docs：完善README项目说明
 2. 发起Pull Request合并到main
 3. 组长审核通过后合并
 4. 所有人执行 git pull origin main 同步最新代码
+
+# 项目贡献规范
+1. 分支规则：正式内容仅合并至main，个人开发使用feat/xxx格式分支
+2. 提交要求：commit备注写明修改文件、具体改动内容
+3. 文档规范：新增文章需同步在config.mjs侧边栏配置对应链接
+4. 合并流程：完成分支开发后提交PR，经审核通过才可并入main分支
