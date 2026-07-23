@@ -1,11 +1,6 @@
 import { defineConfig } from 'vitepress'
-
 export default defineConfig({
-<<<<<<< HEAD
-  ignoreDeadLinks: true,
-=======
   base: '/practice-group-11/',
->>>>>>> 9d87e7adb853b8954bd5652fd7edac9718db5412
   title: "我的开源学习笔记",
   description: "编程学习、作业笔记、技术总结",
   ignoreDeadLinks: true, // 新增这一行！忽略不存在页面的链接
