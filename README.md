@@ -17,7 +17,7 @@ cd practice-group-11
 线上访问地址：https://bistu-ossd.github.io/practice-group-11/
 
 ## 小组分工详情
-组长 刘沛桓（liupeihuan）：创建项目仓库、配置 GitHub Actions CI 自动部署流水线
+组长 刘沛桓（liupeihuan）：仓库初始化、VitePress项目基础搭建；配置GitHub Actions自动化部署流水线；PR审核、版本集成；线上故障排查；完成v1.0.0正式版本Release发布
 组员 刘紫辉（LiuZiHui772006）：网站 UI 定制、明暗双主题样式开发、页面美化
 组员 陈梓橦（ztt-spec）：搭建文档侧边栏目录结构、编写 CONTRIBUTING.md 贡献规范
 组员 刘楚钰（lcy111333）：全站功能测试、页面 Bug 收集跟踪、文档优化与完善 README
